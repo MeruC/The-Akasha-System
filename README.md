@@ -1,7 +1,8 @@
 # The Akasha System
-## Name derived from Genshin Impact. the Akasha System, developed by [Greater Lord Rukkhadevata](https://genshin-impact.fandom.com/wiki/Greater_Lord_Rukkhadevata) 
-## It allows for the transfer and sharing of information via a device called the Akasha Terminal.
-### It's a hivemind of information easily accessible by those part of the system.
+## A hivemind of information easily accessible by those part of the system.
+#### Name derived from Genshin Impact. the Akasha System, developed by [Greater Lord Rukkhadevata](https://genshin-impact.fandom.com/wiki/Greater_Lord_Rukkhadevata) 
+#### It allows for the transfer and sharing of information via a device called the Akasha Terminal.
+
 
 # Info
 - Keep proper organization by using folders please
